@@ -1,0 +1,26 @@
+### Hi there 👋
+
+* https://marcoinacio.com: my website
+
+* https://rust.marcoinacio.com/: Rust tutorial for data professionals with Rust basics, Candle, neural networks, LLMs,
+Llama, SQLx, RabbitMQ, webdev and more.
+
+* https://pytutorial.marcoinacio.com: introductory Python tutorial, focused specially on statisticians and machine learning.
+
+### Rust FOSS projects
+
+Here's a few recent FOSS projects I wrote in Rust:
+
+* https://play.marcoinacio.com: a simple shoot 'em up game with Bevy. Available in Wasm and in mobile and desktop.
+
+* https://rust-oauth.marcoinacio.com/: template website for Google OAuth authentication with Axum and Minijinja,
+using SQLite (previous version with MongoDB) as database engine.
+
+* https://github.com/randommm/rust-slackbot-llm: Slack chat bot written in Rust that converts allow users to
+interact with LLM chatbots directly on Slack.
+
+* https://github.com/randommm/rust-trading-platform: real‑time data streaming of financial data with resam‑
+pling of data and an Axum API to query data with from, to, frequency and limit filters using PostgreSQL as database engine
+(previous version with SQLite).
+
+* https://github.com/randommm/rust-slackbot-html-to-pdf: Slack App that converts an HTML to PDF and sends it to a user on Slack.
