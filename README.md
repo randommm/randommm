@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* https://marcoinacio.com: my website
+* https://marcoinacio.com: my website.
 
 * https://rust.marcoinacio.com/: Rust tutorial for data professionals with Rust basics, Candle, neural networks, LLMs,
 Llama, SQLx, RabbitMQ, webdev and more.
@@ -23,4 +23,8 @@ interact with LLM chatbots directly on Slack.
 pling of data and an Axum API to query data with from, to, frequency and limit filters using PostgreSQL as database engine
 (previous version with SQLite).
 
-* https://github.com/randommm/rust-slackbot-html-to-pdf: Slack App that converts an HTML to PDF and sends it to a user on Slack.
+* https://github.com/randommm/rust-slack-app-html-to-pdf: Slack App that converts an HTML to PDF and sends it to a user on Slack.
+
+* https://github.com/randommm/rust-pyo3-optuna-botorch-lightgbm: training a LightGBM in Rust calling Optuna and Botorch from Python to hyperparameter search.
+
+* https://github.com/randommm/rust-pid-rc: simple PID controller example in Rust.
