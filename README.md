@@ -28,3 +28,5 @@ pling of data and an Axum API to query data with from, to, frequency and limit f
 * https://github.com/randommm/rust-pyo3-optuna-botorch-lightgbm: training a LightGBM in Rust calling Optuna and Botorch from Python to hyperparameter search.
 
 * https://github.com/randommm/rust-pid-rc: simple PID controller example in Rust.
+
+* https://github.com/randommm/quantlib-on-rust: calling Quantlib C++ functionalities inside Rust using CxxBridge.
