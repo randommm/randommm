@@ -30,3 +30,7 @@ pling of data and an Axum API to query data with from, to, frequency and limit f
 * https://github.com/randommm/rust-pid-rc: simple PID controller example in Rust.
 
 * https://github.com/randommm/quantlib-on-rust: calling Quantlib C++ functionalities inside Rust using CxxBridge.
+
+* https://github.com/randommm/rust-cmake-example: an example of combining Rust and CMake.
+
+* https://github.com/randommm/rust-opentelemetry-example: Rust OpenTelemetry example
